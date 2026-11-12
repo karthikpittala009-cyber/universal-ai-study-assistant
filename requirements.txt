@@ -1,0 +1,6 @@
+streamlit
+supabase
+google-genai
+pypdf
+fpdf2
+requests
